@@ -1,0 +1,6 @@
+# env variables
+.env
+
+# node_modules & package-manager
+node_modules
+pnpm-lock.yaml
